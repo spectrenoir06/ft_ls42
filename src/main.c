@@ -14,7 +14,7 @@
 
 void		usage(void)
 {
-	ft_putstr_fd("usage: ft_ls [-RSalprt1] [file ...]\n", 2);
+	ft_putstr_fd("usage: ft_ls [-RSadgloprtu1] [file ...]\n", 2);
 }
 
 int			arg_cmp(void *na1, void *na2)
