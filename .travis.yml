@@ -5,12 +5,9 @@ compiler:
 
 install:
     - sudo apt-get install libacl1-dev
-    - git clone https://github.com/yyang42/moulitest.git
-    - echo "FT_LS_PATH = /home/travis/build/spectrenoir06/ft_ls42/" > moulitest/config.ini
 script:
     - make -C libft libft.a -j
     - make -C libft libft_debug.a -j
     - make -C libft libft.so -j
     - make all -j
     - make debug -j
-    - make -C moulitest/ft_ls_tests/
