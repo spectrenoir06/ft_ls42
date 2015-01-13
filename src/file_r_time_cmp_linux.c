@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   file_r_time_cmp_linux.c                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: adoussau <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: adoussau <antoine@doussaud.org>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/01/06 12:11:09 by adoussau          #+#    #+#             */
 /*   Updated: 2015/01/06 12:11:13 by adoussau         ###   ########.fr       */

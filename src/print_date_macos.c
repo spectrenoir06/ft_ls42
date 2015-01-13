@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   print_date_macos.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: adoussau <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: adoussau <antoine@doussaud.org>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/01/06 12:47:49 by adoussau          #+#    #+#             */
 /*   Updated: 2015/01/06 12:48:13 by adoussau         ###   ########.fr       */

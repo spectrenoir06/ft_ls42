@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_burger.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: adoussau <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: adoussau <antoine@doussaud.org>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/01/02 15:40:28 by adoussau          #+#    #+#             */
 /*   Updated: 2015/01/02 15:40:31 by adoussau         ###   ########.fr       */

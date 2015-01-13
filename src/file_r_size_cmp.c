@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   file_size_cmp.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: adoussau <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: adoussau <antoine@doussaud.org>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/01/06 12:11:35 by adoussau          #+#    #+#             */
 /*   Updated: 2015/01/06 12:11:39 by adoussau         ###   ########.fr       */
